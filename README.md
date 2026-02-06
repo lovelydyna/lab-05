@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Dyna Dagman`
+- **CCID:** `1496546`
 
 ## References and Resources
 
